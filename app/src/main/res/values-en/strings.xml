@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="informe_seu_nome">Enter your name to continue</string>
+    <string name="nova_frase">New sentence</string>
+    <string name="vamos_comecar">let\'s get started?</string>
+    <string name="qual_o_seu_nome">Whats your name?</string>
+    <string name="continuar">Continue</string>
+</resources>
